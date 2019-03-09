@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  静态手势识别.cpp
+e:\c++\静态手势识别\静态手势识别\静态手势识别.cpp(45): warning C4101: “str”: 未引用的局部变量
+e:\c++\静态手势识别\静态手势识别\静态手势识别.cpp(179): warning C4715: “XLoutline”: 不是所有的控件路径都返回值
+e:\c++\静态手势识别\静态手势识别\静态手势识别.cpp(208): warning C4715: “Youtline”: 不是所有的控件路径都返回值
+opencv_world342d.lib(opencv_world342d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“x86”冲突

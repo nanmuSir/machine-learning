@@ -1,0 +1,6 @@
+﻿  手势识别.cpp
+e:\c++\手势识别\手势识别\手势识别.cpp(248): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++\手势识别\手势识别\手势识别.cpp(248): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+e:\c++\手势识别\手势识别\手势识别.cpp(294): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\c++\手势识别\手势识别\手势识别.cpp(294): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  手势识别.vcxproj -> E:\C++\手势识别\x64\Debug\手势识别.exe
